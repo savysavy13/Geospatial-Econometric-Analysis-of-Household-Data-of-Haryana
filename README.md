@@ -1,5 +1,5 @@
 # Geospatial-Econometric-Analysis-of-Household-Data-of-Haryana
-Please see the "Final_Report_Digitization &amp; Analysis.pdf" for the final report
+Please download to see the "Final_Report_Digitization &amp; Analysis.pdf" for the final report as github is sometimes unable to render high dpi pdfs.
 
 #Project Summary: Geospatial & Econometric Analysis of Household Data in Haryana
 
